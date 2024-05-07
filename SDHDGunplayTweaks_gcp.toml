@@ -1,0 +1,9 @@
+# Sleeping Dogs Gunplay Tweaks by Hana @gaycoderprincess
+# enjoy, nya~ :3
+
+[main]
+disable_autoaim = true			# Disables soft lock-on regardless of the in-game setting
+accurate_weapons = true			# Disables bulletspread
+
+[extras]
+no_steering_deadzone = false		# Removes the initial turning deadzone in vehicles
